@@ -1,0 +1,8 @@
+Special thanks to:
+
+- My employer, Sapient, for permitting this code to be released as
+open-source, and for providing the time and resources for its
+development.
+
+- Joshua Kereos, author of the Perl module Net-Telnet-Cisco for the
+inspiration and for a nice, stable, codebase to borrow from.

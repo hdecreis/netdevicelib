@@ -1,0 +1,2 @@
+Simply copy the src/netdevicelib directory somewhere into your PYTHONPATH
+(more detailed instructions and a distutils installer on the to-do list)
